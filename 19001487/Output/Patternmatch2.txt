@@ -1,0 +1,7 @@
+********Test case 2*********
+
+Text :asrbevrabcbr
+Pattern :a__b_
+
+Pattern found from starting index 0
+Pattern found from starting index 7

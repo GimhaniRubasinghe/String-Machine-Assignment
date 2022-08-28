@@ -1,0 +1,7 @@
+********Test case 5*********
+
+Text :wispreecdfcdwicpefecfrc
+Pattern :wi_p__e___c
+
+Pattern found from starting index 0
+Pattern found from starting index 12

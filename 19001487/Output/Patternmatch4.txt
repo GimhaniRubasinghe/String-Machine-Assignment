@@ -1,0 +1,6 @@
+********Test case 4*********
+
+Text :qweudertutlprty
+Pattern :u___tu_lp
+
+Pattern found from starting index 3

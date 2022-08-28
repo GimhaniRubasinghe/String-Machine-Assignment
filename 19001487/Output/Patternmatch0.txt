@@ -1,0 +1,7 @@
+********Test case 0*********
+
+Text :
+Pattern :   
+
+
+No match resault found 

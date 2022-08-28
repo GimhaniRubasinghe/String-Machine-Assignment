@@ -1,0 +1,7 @@
+********Test case 3*********
+
+Text :alcaewepbedw
+Pattern :ca__pb__
+
+
+No match resault found 

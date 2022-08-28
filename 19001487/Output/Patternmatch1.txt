@@ -1,0 +1,6 @@
+********Test case 1*********
+
+Text :avdceg abcdefcppg
+Pattern :c_g
+
+Pattern found from starting index 3
